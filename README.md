@@ -1,6 +1,6 @@
 # Hei 👋
 
-I'm a PhD student at the University of Alberta ([REAL](https://mcmachado.github.io/group.html), [RLAI](http://rlai.ualberta.ca/), [Amii](https://www.amii.ca/)), studying reinforcement learning and AI. 
+I'm a PhD student at the University of Alberta ([ReAL](https://mcmachado.github.io/group.html), [RLAI](http://rlai.ualberta.ca/), [Amii](https://www.amii.ca/)), studying reinforcement learning and AI. 
 
 How do humans and machines make sense of a big, noisy world? I explore this by studying the computational mechanisms underlying perception, cognition, and action.
 
