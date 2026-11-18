@@ -1,6 +1,6 @@
 ## Hi, I'm Erik 👋
 
-I'm a PhD student at the University of Alberta, working with [Marlos C. Machado](https://mcmachado.github.io/group.html) at the intersection of representation learning and reinforcement learning.
+I'm a PhD student at the University of Alberta, working with [Marlos C. Machado](https://mcmachado.github.io) at the intersection of representation learning and reinforcement learning.
 
 How do humans and machines turn experience into knowledge and skills? I'm interested in how agents form representations through interaction with a big, noisy world, and how those representations can support lifelong learning.
 
