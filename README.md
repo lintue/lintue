@@ -1,19 +1,14 @@
-# Hei 👋
+## Hi, I'm Erik 👋
 
-I'm a PhD student at the University of Alberta ([ReAL](https://mcmachado.github.io/group.html), [RLAI](http://rlai.ualberta.ca/), [Amii](https://www.amii.ca/)), studying reinforcement learning and AI. 
+I'm a PhD student at the University of Alberta, working with [Marlos C. Machado](https://mcmachado.github.io/group.html) at the intersection of representation learning and reinforcement learning.
 
-How do humans and machines make sense of a big, noisy world? I explore this by studying the computational mechanisms underlying perception, cognition, and action.
+How do humans and machines turn experience into knowledge and skills? I'm interested in how agents form representations through interaction with a big, noisy world, and how those representations can support lifelong learning.
 
-**🔭 Current research interests:**
-* Representation-driven skill discovery
-* Intrinsic motivation and open-endedness
-* Mechanistic interpretability
-* Scaling deep RL agents
+I'm part of the [ReAL](https://mcmachado.github.io/group.html) and [RLAI](http://rlai.ualberta.ca/) labs, [Amii](https://www.amii.ca/), and the [IMOL community](https://www.imol-community.org/).
 
-**💬 Connect & read more:**
 * [Personal Website](https://lintue.github.io)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=dYjcmnQAAAAJ)
 * [LinkedIn](https://www.linkedin.com/in/erik-lintunen/)
 
-**☕ Get in touch:** 
-Share my interests or want to discuss topics related to my current research? I am always keen on learning something new! Reach out via lintunen@ualberta.ca for a chat.
+**☕** 
+I am always keen on learning something new. If our interests overlap, feel free to [reach out](mailto:lintunen@ualberta.ca) for a chat.
